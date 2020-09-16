@@ -10,6 +10,6 @@
 
 ![VueJS](https://i.ibb.co/4fQwPy9/vuelogo.png)
 
-## React JS
+## Vue JS
 + Soon
 
