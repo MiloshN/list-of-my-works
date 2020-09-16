@@ -13,3 +13,7 @@
 ## Vue JS
 + Soon
 
+![jQuery](https://i.ibb.co/ZJ1mPBp/jquery.png)
+
+## jQuery
++ Soon
